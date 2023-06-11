@@ -1,0 +1,22 @@
+#container {
+	position: relative;
+	top: 30px;
+	outline:2px solid #000;
+	font-size: 0;
+	margin:auto;
+	height:480px;
+	width:480px;
+	padding: 0;
+	border: none;
+}
+
+.gridCell {
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    display: inline-block;
+    box-sizing: border-box;
+    vertical-align: top;
+}
